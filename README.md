@@ -31,9 +31,9 @@ This project aims to create two financial analysis tools for members of a large 
 #### Analysis of Retirement Portfolio Forecasts:
 - Lower and upper bounds for the expected portfolio value with a 95% confidence interval were determined.
 - Forecasting Cumulative Returns in 10 Years:
-- Asset allocations were adjusted to 20% bonds and 80% stocks for a shorter-term retirement plan.
-- A new Monte Carlo simulation with 500 samples over 10 years was conducted.
-- Lower and upper bounds for the expected portfolio value with a 95% confidence interval were determined, and the feasibility of retiring after 10 years with a more heavily weighted stock portfolio was assessed.
+  - Asset allocations were adjusted to 20% bonds and 80% stocks for a shorter-term retirement plan.
+  - A new Monte Carlo simulation with 500 samples over 10 years was conducted.
+  - Lower and upper bounds for the expected portfolio value with a 95% confidence interval were determined, and the feasibility of retiring after 10 years with a more heavily weighted stock portfolio was assessed.
 
 ## Further Implications & Significance 
 In summary, these financial analysis tools mark a significant step forward in empowering credit union members to make informed financial decisions. By leveraging API technology and advanced analytics, these tools provide valuable insights into emergency fund readiness and retirement planning. Beyond immediate benefits, they promote financial literacy and foster responsible financial habits, ultimately enhancing community financial well-being. As technology advances, these tools are vital in guiding individuals toward their long-term financial goals.
